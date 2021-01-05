@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: system-ui;
     font-size: 1.1em;
     background-color:#eee;
   }
@@ -15,7 +15,7 @@ body {
   }
   
   .navbar-brand {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: system-ui;
     font-size: 25px;
     font-weight: bolder;
     background-color: rgb(20, 150, 150);
@@ -46,13 +46,13 @@ body {
   .text-left {
     text-align: left;
     color: rgb(20, 150, 150);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: system-ui;
     font-weight: bolder;
   }
   
   .text-center {
     color: rgb(20, 150, 150);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: system-ui;
     font-weight: bolder;
   }
   
